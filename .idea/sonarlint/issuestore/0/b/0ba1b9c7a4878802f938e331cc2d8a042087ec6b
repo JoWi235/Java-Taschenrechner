@@ -1,8 +1,4 @@
 
-™
-java:S3457	"Q%n should be used in place of \n to produce the platform-specific line separator.(äÝ¥Áþÿÿÿÿ8ÑÑ«øÉ2J$c6bb5dd5-77ee-4b47-aa0b-b56d02b411a0
-f
-java:S3457	"%String contains no format specifiers.(äÝ¥ÁþÿÿÿÿJ$c58361ce-5293-436a-988a-c28f46b1732f
-k	java:S106	"+Replace this use of System.out by a logger.(äÝ¥ÁþÿÿÿÿJ$6bd57281-8d0f-42ae-a737-d76276b1c856
-k	java:S106"+Replace this use of System.out by a logger.(Ðö¶žüÿÿÿÿJ$faf717bb-01df-429d-b78b-c93e4f7ecafb
-r	java:S106"+Replace this use of System.out by a logger.(½èÉÐüÿÿÿÿ8ðŠÈøÉ2J$0924bf2a-96d4-4e79-a392-5c82fcec73a6
+r	java:S106"+Replace this use of System.out by a logger.(É„ˆôøÿÿÿÿ8¯˜È±Ð2J$13a092dd-f83c-412e-8959-60e31b089c2e
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(éÿÝÎùÿÿÿÿ8°˜È±Ð2J$9f6f9a50-8344-40f7-9245-7e13b899e8fa
+r	java:S106"+Replace this use of System.out by a logger.(ÛèÆÆýÿÿÿÿ8±˜È±Ð2J$f263aef2-d24c-40e9-9a1c-73a1dab4eddd
