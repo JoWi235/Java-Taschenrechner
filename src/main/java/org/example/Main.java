@@ -7,12 +7,36 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        System.out.println("1: Add \n2: Sub");
+
+        int num1;
+        int num2;
+        int chosenOperator = scanner.nextInt();
+
+        switch(chosenOperator) {
+            case 1:
+                System.out.println("hallo 1");
+                num1 = scanner.nextInt();
+                num2 = scanner.nextInt();
+                System.out.println(num1 + num2);
+                break;
+            case 2:
+                System.out.println("hallo 2");
+                num1 = scanner.nextInt();
+                num2 = scanner.nextInt();
+                System.out.println(num1 - num2);
+                break;
+            default:
+                System.out.println("hallo default");
+        }
+        /*
         try {
-            /*int firstNum = scanner.nextInt();
-            System.out.println(firstNum);*/
-            System.out.println(scanner.nextInt()+scanner.nextInt());
+            System.out.println(scanner.nextLine());
         } catch (Exception e) {
             System.out.println("Falsche Eingabe");
-        }
+        }*/
+        scanner.close();
     }
+
+
 }

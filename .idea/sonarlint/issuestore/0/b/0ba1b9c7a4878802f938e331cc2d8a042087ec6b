@@ -1,4 +1,4 @@
 
-r	java:S106"+Replace this use of System.out by a logger.(É„ˆôøÿÿÿÿ8¯˜È±Ð2J$13a092dd-f83c-412e-8959-60e31b089c2e
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(éÿÝÎùÿÿÿÿ8°˜È±Ð2J$9f6f9a50-8344-40f7-9245-7e13b899e8fa
-r	java:S106"+Replace this use of System.out by a logger.(ÛèÆÆýÿÿÿÿ8±˜È±Ð2J$f263aef2-d24c-40e9-9a1c-73a1dab4eddd
+L	java:S106"+Replace this use of System.out by a logger.(É„ˆôøÿÿÿÿ8¿ÇØ±Ð2
+]	java:S125"<This block of commented-out lines of code should be removed.(éÿÝÎùÿÿÿÿ8ÀÇØ±Ð2
+L	java:S106"+Replace this use of System.out by a logger.(ÛèÆÆýÿÿÿÿ8ÂÇØ±Ð2
